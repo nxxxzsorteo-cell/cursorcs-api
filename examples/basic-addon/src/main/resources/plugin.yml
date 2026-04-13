@@ -1,0 +1,9 @@
+name: BasicCursorAddon
+main: com.example.cursoraddon.BasicCursorAddonPlugin
+version: 1.0.0
+api-version: "1.21"
+softdepend: [CursorCs]
+commands:
+  mycursor:
+    description: Demo command for CursorCs API usage.
+    usage: /mycursor <start|switch|stop> [group]
