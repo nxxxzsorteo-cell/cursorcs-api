@@ -28,7 +28,7 @@ dependencies {
 }
 ```
 
-If you are not publishing to a Maven repository yet, include the API jar manually during development:
+Since im not publishing to a Maven repository yet, include the API jar manually during development:
 - `addons/cursorcs-api/build/libs/cursorcs-api-1.0.0-SNAPSHOT.jar`
 
 ## Runtime lookup
